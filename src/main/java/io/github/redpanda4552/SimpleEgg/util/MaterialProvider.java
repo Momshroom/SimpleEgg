@@ -13,6 +13,7 @@ public class MaterialProvider {
      */
     private static final Object[][] eggTable = new Object[][] {
         {   EntityType.MUSHROOM_COW ,   Material.MOOSHROOM_SPAWN_EGG    },
+        {   EntityType.PIG_ZOMBIE   ,   Material.ZOMBIE_PIGMAN_SPAWN_EGG},
     };
     
     /**
